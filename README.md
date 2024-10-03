@@ -6,7 +6,7 @@ I am a passionate B.Tech CSE student at KL University, driven by a curiosity for
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Master's in Computer Science at KL University.
+- 🔭 I'm currently pursuing my B.Tech in Computer Science at KL University.
 - 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
 - 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
 - ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
